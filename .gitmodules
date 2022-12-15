@@ -1,0 +1,3 @@
+[submodule "TS-Extrinsic-Regression"]
+	path = TS-Extrinsic-Regression
+	url = https://github.com/ChangWeiTan/TS-Extrinsic-Regression.git
