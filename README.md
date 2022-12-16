@@ -10,5 +10,11 @@ ROCKET Implementation  [ChangWeiTan - TS-Extrinsic-Regression](https://github.co
 
 Instructions:
 
+On Mac:
 1) chmod +x preparation.txt
 2) ./preparation.txt
+
+On windows:
+1) Create folder TS_Extrinsic_Regression in ROCKET-project directory
+2) Clone https://github.com/ChangWeiTan/TS-Extrinsic-Regression to ROCKET-project/TS_Extrinsic_Regression
+3) replace file ROCKET-project/TS_Extrinsic_Regression/models/rocket.py with ROCKET-project/rocket.py
