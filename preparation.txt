@@ -1,0 +1,10 @@
+#!/bin/sh
+cd ./ROCKET-project
+
+rm -rf TS-Extrinsic-Regression
+
+git clone https://github.com/ChangWeiTan/TS-Extrinsic-Regression.git
+
+mv  TS-Extrinsic-Regression TS_Extrinsic_Regression
+
+mv -f rocket.py TS_Extrinsic_Regression/models/rocket.py
