@@ -6,7 +6,7 @@ Data - [sktime load_airline](https://www.sktime.org/en/stable/api_reference/auto
 
 ROCKET Implementation (rocket.py) [ChangWeiTan - TS-Extrinsic-Regression](https://github.com/ChangWeiTan/TS-Extrinsic-Regression)
 
-
+Analysis is presented in ROCKET_final.ipynb
 
 Instructions:
 
